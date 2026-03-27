@@ -1,0 +1,12 @@
+{
+  "teachers": [
+    {
+      "username": "msmith",
+      "password": "b520ef7e4123c1410729d4574d1e5ef0aa5bfda601f3fbc6f7a7387fba90ebcb"
+    },
+    {
+      "username": "admin",
+      "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    }
+  ]
+}
